@@ -1,5 +1,5 @@
 # DDoS Scripts
-**The powerful DDoS script of [vBooter.org](https://www.vbooter.org/)**
+**The powerful DDoS scripts of [vBooter.org](https://www.vbooter.org/)**
 
 
 *Compile:*
